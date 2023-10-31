@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e2ea48-453a-4767-b0bb-b44b220f21f5" name="Changes" comment="añadido holamundo" />
+    <list default="true" id="b1e2ea48-453a-4767-b0bb-b44b220f21f5" name="Changes" comment="añadido holamundos">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +52,7 @@
       <workItem from="1697537466636" duration="17000" />
       <workItem from="1697538831305" duration="1489000" />
       <workItem from="1697610493767" duration="10000" />
-      <workItem from="1698750721534" duration="1765000" />
+      <workItem from="1698750721534" duration="2410000" />
     </task>
     <task id="LOCAL-00001" summary="jenkins">
       <option name="closed" value="true" />
@@ -100,7 +102,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698751847515</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="añadido holamundos">
+      <option name="closed" value="true" />
+      <created>1698753206810</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1698753206810</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +120,7 @@
     <MESSAGE value="jenkins" />
     <MESSAGE value="MAVEN properties java 11" />
     <MESSAGE value="añadido holamundo" />
-    <option name="LAST_COMMIT_MESSAGE" value="añadido holamundo" />
+    <MESSAGE value="añadido holamundos" />
+    <option name="LAST_COMMIT_MESSAGE" value="añadido holamundos" />
   </component>
 </project>
