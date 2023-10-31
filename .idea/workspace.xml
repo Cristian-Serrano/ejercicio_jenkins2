@@ -50,7 +50,7 @@
       <workItem from="1697537466636" duration="17000" />
       <workItem from="1697538831305" duration="1489000" />
       <workItem from="1697610493767" duration="10000" />
-      <workItem from="1698750721534" duration="791000" />
+      <workItem from="1698750721534" duration="1109000" />
     </task>
     <task id="LOCAL-00001" summary="jenkins">
       <option name="closed" value="true" />
@@ -84,7 +84,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698751511188</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="añadido holamundo">
+      <option name="closed" value="true" />
+      <created>1698751526968</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1698751526968</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
