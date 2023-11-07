@@ -4,13 +4,20 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b1e2ea48-453a-4767-b0bb-b44b220f21f5" name="Changes" comment="añadido holamundos">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="b1e2ea48-453a-4767-b0bb-b44b220f21f5" name="Changes" comment="creado dockerfile">
+      <change beforePath="$PROJECT_DIR$/Dockerfile" beforeDir="false" afterPath="$PROJECT_DIR$/Dockerfile" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Dockerfile" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -54,7 +61,7 @@
       <workItem from="1697610493767" duration="10000" />
       <workItem from="1698750721534" duration="2446000" />
       <workItem from="1698922336742" duration="674000" />
-      <workItem from="1699354756075" duration="807000" />
+      <workItem from="1699354756075" duration="1061000" />
     </task>
     <task id="LOCAL-00001" summary="jenkins">
       <option name="closed" value="true" />
@@ -120,7 +127,15 @@
       <option name="project" value="LOCAL" />
       <updated>1698753231693</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="creado dockerfile">
+      <option name="closed" value="true" />
+      <created>1699355777247</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1699355777247</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +146,7 @@
     <MESSAGE value="MAVEN properties java 11" />
     <MESSAGE value="añadido holamundo" />
     <MESSAGE value="añadido holamundos" />
-    <option name="LAST_COMMIT_MESSAGE" value="añadido holamundos" />
+    <MESSAGE value="creado dockerfile" />
+    <option name="LAST_COMMIT_MESSAGE" value="creado dockerfile" />
   </component>
 </project>
